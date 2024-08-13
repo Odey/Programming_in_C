@@ -22,7 +22,7 @@ void str_rev(char *str){
 int main() {
     printf("Hello world\n");
     
-    char str[] =  "Rahul";
+    char str[] =  "Olenka";
     str_rev(str);
     return 0;
 }
